@@ -9,6 +9,8 @@
 > To all those who helped me get here, thank you.
 > To those who show up after, I think there may be a few things worth learning from still.
 
+> See my current rewrite at [Michael-C-Buckley/nixos](https://github.com/michael-c-buckley/nixos)
+
 This flake is the major collection of all things I use to manage my systems.
 It contains primary use systems, like desktop, laptop, and some servers.
 
